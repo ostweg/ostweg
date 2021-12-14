@@ -1,1 +1,1 @@
-![alt text](https://github.com/ostweg/ostweg/img/header.jpg?raw=true)
+![alt text](https://github.com/ostweg/ostweg/main/img/header.jpg?raw=true)
