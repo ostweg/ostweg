@@ -1,1 +1,1 @@
-![alt text](https://github.com/ostweg/ostweg/main/img/header.jpg)
+(https://raw.githubusercontent.com/ostweg/ostweg/main/img/header.jpg)
