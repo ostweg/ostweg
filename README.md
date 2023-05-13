@@ -1,7 +1,7 @@
 <!--![alt text](https://raw.githubusercontent.com/ostweg/ostweg/main/img/header.jpg)-->
 # Hi, I'm Samuel 👋
 
-Work in progress. Currently in a gap year. 
+AI/ML Student.
 
 
 - 💬 Got any questions? -> [email](mailto:...)
